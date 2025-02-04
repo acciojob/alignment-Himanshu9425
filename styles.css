@@ -15,11 +15,15 @@ td{
 	background-color:green;
 }
 #row-2{
-	background-image("")
+	border:none;
 }
 
 #row-3{
 	background-color:blue;
+}
+
+#table-3{
+	border-collapse:collapse;
 }
 #table-2{
 	margin-top:10px;
