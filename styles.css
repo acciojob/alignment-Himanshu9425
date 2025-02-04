@@ -20,6 +20,11 @@ td{
 	border:none;
 }
 
+#t-image{
+	border:1px solid black;
+	padding:1px;
+}
+
 #row-3{
 	background-color:blue;
 }
